@@ -1,48 +1,112 @@
-@font-face {
-  font-family: DejaVuSerif;
-  src: url("../download/DejaVuSerif.eot");
-  src: local('☺'), local('Dejavu Serif'), url("../download/DejaVuSerif.ttf") format("truetype");
+.timeline {
+    position: relative;
+    padding: 20px 0 20px;
+    list-style: none;
 }
 
-@font-face {
-  font-family: DejaVuSerif;
-  src: url("../download/DejaVuSerif-Italic.eot");
-  src: local('☺'), local('Dejavu Serif Italic'), url("../download/DejaVuSerif-Italic.ttf") format("truetype");
-  font-style: italic;
+.timeline:before {
+    content: " ";
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 50%;
+    width: 3px;
+    margin-left: -1.5px;
+    background-color: #eeeeee;
 }
 
-@font-face {
-  font-family: DejaVuSerif;
-  src: url("../download/DejaVuSerif-Bold.eot");
-  src: local('☺'), local('Dejavu Serif Bold'), url("../download/DejaVuSerif-Bold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: bold;
+.timeline > li {
+    position: relative;
+    margin-bottom: 20px;
 }
 
-@font-face {
-  font-family: DejaVuSerif;
-  src: url("../download/DejaVuSerif-BoldItalic.eot");
-  src: local('☺'), local('Dejavu Serif Bold Italic'), url("../download/DejaVuSerif-BoldItalic.ttf") format("truetype");
-  font-style: italic;
-  font-weight: bold;
+.timeline > li:before,
+.timeline > li:after {
+    content: " ";
+    display: table;
 }
 
-@font-face {
-  font-family: DejaVuSansCondensed;
-  src: url("../download/DejaVuSansCondensed.eot");
-  src: local('☺'), local('Dejavu Sans Condensed'), url("../download/DejaVuSansCondensed.ttf") format("truetype");
+.timeline > li:after {
+    clear: both;
 }
 
-@font-face {
-  font-family: DejaVuSansCondensed;
-  src: url("../download/DejaVuSansCondensed-Bold.eot");
-  src: local('☺'), local('Dejavu Sans Condensed Bold'), url("../download/DejaVuSansCondensed-Bold.ttf") format("truetype");
-  font-style: normal;
-  font-weight: bold;
+.timeline > li:before,
+.timeline > li:after {
+    content: " ";
+    display: table;
 }
 
-@font-face {
-  font-family: DejaVuSansMono;
-  src: url("../download/DejaVuSansMono.eot");
-  src: local('☺'), local('Dejavu Sans Mono'), url("../download/DejaVuSansMono.ttf") format("truetype");
+.timeline > li:after {
+    clear: both;
 }
+
+.timeline > li > .timeline-panel {
+    float: left;
+    position: relative;
+    width: 46%;
+    padding: 20px;
+    border: 1px solid #d4d4d4;
+    border-radius: 2px;
+    -webkit-box-shadow: 0 1px 6px rgba(0,0,0,0.175);
+    box-shadow: 0 1px 6px rgba(0,0,0,0.175);
+}
+
+.timeline > li > .timeline-panel:before {
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    top: 26px;
+    right: -15px;
+    border-top: 15px solid transparent;
+    border-right: 0 solid #ccc;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid #ccc;
+}
+
+.timeline > li > .timeline-panel:after {
+    content: " ";
+    display: inline-block;
+    position: absolute;
+    top: 27px;
+    right: -14px;
+    border-top: 14px solid transparent;
+    border-right: 0 solid #fff;
+    border-bottom: 14px solid transparent;
+    border-left: 14px solid #fff;
+}
+
+.timeline > li > .timeline-badge {
+    z-index: 100;
+    position: absolute;
+    top: 16px;
+    left: 50%;
+    width: 50px;
+    height: 50px;
+    margin-left: -25px;
+    border-radius: 50% 50% 50% 50%;
+    text-align: center;
+    font-size: 1.4em;
+    line-height: 50px;
+    color: #fff;
+    background-color: #999999;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel {
+    float: right;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel:before {
+    right: auto;
+    left: -15px;
+    border-right-width: 15px;
+    border-left-width: 0;
+}
+
+.timeline > li.timeline-inverted > .timeline-panel:after {
+    right: auto;
+    left: -14px;
+    border-right-width: 14px;
+    border-left-width: 0;
+}
+
+
