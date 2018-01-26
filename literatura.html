@@ -1,1 +1,199 @@
+<!DOCTYPE html>
+<html lang="pt">
 
+<head>
+
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="description" content="">
+	<meta name="author" content="">
+	<link rel="icon" href="img/logo.png">
+	<title>Legionella Pneumophila</title>
+
+	<!-- Bootstrap Core CSS -->
+	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+
+	<!-- MetisMenu CSS -->
+	<link href="bower_components/metisMenu/dist/metisMenu.min.css" rel="stylesheet">
+
+	<!-- DataTables CSS -->
+	<link href="bower_components/datatables-plugins/integration/bootstrap/3/dataTables.bootstrap.css" rel="stylesheet">
+
+	<!-- DataTables Responsive CSS -->
+	<link href="bower_components/datatables-responsive/css/dataTables.responsive.css" rel="stylesheet">
+
+	<!-- Custom CSS -->
+	<link href="dist/css/sb-admin-2.min.css" rel="stylesheet">
+
+	<!-- Custom Fonts -->
+	<link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+	<link href="bower_components/timeline.css" rel="stylesheet" type="text/css">
+
+	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	<!--[if lt IE 9]>
+		<script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+		<script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+	<![endif]-->
+
+</head>
+
+<body>
+
+	<div id="wrapper">
+
+		<nav class="navbar navbar-default navbar-static-top" role="navigation" style="margin-bottom: 0">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+					<span class="sr-only">Toggle navigation</span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+				</button>
+				<img class="navbar-brand" src="img/logo.png" alt=" "/>
+				<a class="navbar-brand">Legionella Pneumophila</a>
+			</div>
+
+			<div class="navbar-default sidebar" role="navigation">
+				<div class="sidebar-nav navbar-collapse">
+					<ul class="nav" id="side-menu">
+						<li>
+							<a href="index.html"><i class="fa fa-home fa-fw"></i> Home</a>
+						</li>
+						<li>
+							<a href="#"><i class="fa fa-gear fa-fw"></i> Trabalho realizado<span class="fa arrow"></span></a>
+							<ul class="nav nav-second-level">
+								<li>
+									<a href="literatura.html">Análise de literatura</a>
+								</li>
+								<li>
+									<a href="sequencia.html">Análise da sequência</a>
+								</li>
+								<li>
+									<a href="homologias.html">Análise de homologias por Blast</a>
+								</li>
+								<li>
+									<a href="analise.html">Análise de proteínas</a>
+								</li>
+								<li>
+									<a href="anotacao.html">Anotação funcional</a>
+								</li>
+								<li>
+									<a href="filogenia.html">Alinhamento múltiplo e filogenia</a>
+								</li>
+								<li>
+									<a href="redes.html">Redes metabólica e regulatória</a>
+								</li>
+								<li>
+									<a href="drugs.html">Resistência a drogas e virulência</a>
+								</li>
+							</ul>
+							<!-- /.nav-second-level -->
+						</li>
+						<li>
+							<a href="table.html"><i class="fa fa-table fa-fw"></i> Tabelas resumo</a>
+						</li>
+						<li>
+							<a href="ferramentas.html"><i class="fa fa-wrench fa-fw"></i> Ferramentas utilizadas</a>
+						</li>
+						<li>
+							<a href="https://github.com/Hubble83/lb/tree/master/scripts" target="_blank"><i class="fa fa-code-fork fa-fw"></i> Scripts desenvolvidos</a>
+						</li>
+					</ul>
+				</div>
+				<!-- /.sidebar-collapse -->
+			</div>
+			<!-- /.navbar-static-side -->
+		</nav>
+		<div id="page-wrapper">
+			<div class="row">
+				<div class="col-lg-12">
+					<h2 class="page-header">Relatório de análise genómica</h2>
+				</div>
+				<!-- /.col-lg-12 -->
+			</div>
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="panel panel-default">
+						<div class="panel-heading">
+							<b>Resumo da Literatura</b>
+						</div>
+						<!-- /.panel-heading -->
+						<div class="panel-body">
+							<div class="col-lg-10 col-lg-offset-1">
+<h2>Pesquisa PubMed</h2><br/>
+<p><big>Antes de qualquer análise acerca deste organismo, é importante o estudo sobre este e recolher alguma informação. Para tal, foi feita uma pesquisa, recorrendo para isso a alguma literatura. 
+Foi realizado um script <a href="https://github.com/Hubble83/lb/tree/master/scripts/literatura/literatura.py">literatura.py</a> que procura todos os artigos relacionados com estes organismo, na base de dados PubMed. Da execução deste processo, resulta o ficheiro <a href="https://github.com/Hubble83/lb/tree/master/scripts/literatura/res_lit.txt">res_lit.txt</a>, que contém a informação que pretendemos.</big></p>
+<p><big>De seguida está um excerto desse ficheiro de texto:</big></p><br/>
+								<figure>
+								<img src="img/pubmedOUT.png" alt="Np image" class="img-rounded img-responsive">
+								</figure>
+<br/><h2>História</h2><br/>
+<p><big>Em 1976, no decorrer de uma convenção da American Legion em Filadélfia, um surto de pneumonia levou à morte de cerca de 35 participantes e cerca de 220 contraíram pneumonia grave, estudos posteriores para determinar as causas das mortes levou ao reconhecimento da Legionella pneumophila que já era na época conhecida. [3]</big><p>
+<p><big>Devido ao contexto histórico com a Legião Americana, a doença foi designada por Doença dos Legionários e o novo microrganismo foi denominado de Legionella pneumophila, pertencente à família Legionellaceae.</big></p><br/><br/>
+							</div>
+							<div class="col-lg-8 col-lg-offset-2">
+								<div class="embed-responsive embed-responsive-16by9">
+    								<iframe width="560" height="315" src="https://www.youtube.com/embed/W3nn1cIL5ro" frameborder="0" allowfullscreen></iframe>
+								</div>
+							</div>
+							<div class="col-lg-10 col-lg-offset-1">
+
+
+<br/><h2>Descrição da bactéria</h2><br/>
+<p><big>A Legionella pneumophila  é uma bactéria gram negativa responsável  por causar uma doença respiratória denominada  Legionelllosis. Por vezes este tipo de bactérias causa um tipo grave de pneumonia (infeção pulmonar), chamada de doença dos legionários, podendo também causar uma infeção menos grave (febre Pontiac), que tem os sintomas de um simples caso de gripe. [1] [2] [3]</big></p>
+
+<br/><h2>Onde se encontra e transmissão</h2><br/>
+<p><big>Trata-se de uma bactéria encontrada de forma natural em ambientes de água doce, como rios e lagos. No entanto, o Homem pode influenciar a transmissão desta bactéria. As banheiras quentes que não são esvaziadas após uso, tanques e aquecedores de água quente, torres de refrigeração (ar condicionado) e grandes sistemas de distribuição de água potável (chuveiros, torneiras, etc.) são vários fatores que levam ao crescimento e transmissão desta bactéria, levando ao aumento do risco de saúde. [3] [4] [5]</big></p>
+<br/><h2>Patogénese</h2><br/>
+<p><big>A principal característica da virulência da Legionella pneumophila é sua capacidade de se multiplicar a nível intracelular. O seu ciclo de vida tem sido caracterizado tanto em protozoários como em células de mamíferos e baseiam-se principalmente na observação microscópica por microscopia eletrónica de transmissão e de varrimento e por microscopia de fluorescência após marcação de vários componentes de células bacterianas e hospedeiras. Na figura 1 está representado o ciclo de vida da espécie Legionella pneumophila num macrófago, que é onde esta bactéria começa a infeção [3] [6]</big></p>
+<br/><br/><br/>
+							</div>
+							<div class="col-lg-8 col-lg-offset-2">
+								<figure>
+								<img src="img/literatura.jpg" alt="Np image" class="img-rounded img-responsive">
+								<figcaption style="text-align: center"><br/>Figura 2 - Ciclo de vida da Legionella pneumophila num macrófago e numa amiba. [3]</figcaption>
+								</figure>
+							</div>
+							<div class="col-lg-10 col-lg-offset-1">
+							<br/><br/>
+<h3>Referências</h3><br/>
+<p>[1] - Fraser, D. W., T. R. Tsai, W. Orenstein, W. E. Parkin, H. J. Beecham, R. G. Sharrar, J. Harris, G. F. Mallison, S. M. Martin, J. E. McDade, C. C. Shepard, and P. S. Brachman. 1977. Legionnaires' disease: description of an epidemic of pneumonia. N. Engl. J. Med. 297:1189-1197.</p>
+
+<p>[2] - McDade, J. E., C. C. Shepard, D. W. Fraser, T. R. Tsai, M. A. Redus, and W. R. Dowdle. 1977. Legionnaires' disease: isolation of a bacterium and demonstration of its role in other respiratory disease. N. Engl. J. Med. 297:1197-1203.</p>
+
+<p>[3]- Barry S. Fields, Robert F. Benson, and Richard E. Besser. 2002. Legionella and Legionnaires' Disease: 25 Years of Investigation. Clin Microbiol Rev. 2002 Jul; 15(3): 506–526.</p>
+
+<p>[4] - Fields, B. S. 1996. The molecular ecology of legionellae. Trends Microbiol. 4:286-290.</p>
+
+<p>[5] - Benin, A., R. Benson, K. Arnold, A. Fiore, P. Cook, K. Williams, B. Fields, and R. Besser. 2002. An outbreak of travel-associated Legionnaires' disease and Pontiac fever and the need for enhanced surveillance for travel-associated legionellosis in the United States. J. Infect. Dis. 185:237-243</p>
+
+<p>[6] - Horwitz, M. A. 1983. The Legionnaires' disease bacterium (Legionella pneumophila) inhibits phagosome-lysosome fusion in human monocytes. J. Exp. Med. 158:2108-2126.</p>
+<br/><br/>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /.col-lg-8 -->
+		</div>
+
+	</div>
+	<!-- /#wrapper -->
+
+	<!-- jQuery -->
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+
+	<!-- Bootstrap Core JavaScript -->
+	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+	<!-- Metis Menu Plugin JavaScript -->
+	<script src="bower_components/metisMenu/dist/metisMenu.min.js"></script>
+
+	<!-- Custom Theme JavaScript -->
+	<script src="dist/js/sb-admin-2.min.js"></script>
+
+</body>
+
+</html>
