@@ -1,0 +1,1363 @@
+Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+
+Artigos Disponiveis em PubMed a 28/01/2018
+Total de artigos disponiveis:194
+
+[1]
+Title: Male Neonate with Legionellosis.
+Date:2017 Dec 22
+Authors: ['Szewc AM', 'Taylor S', 'Cage GD', 'de Mello D']
+Language:English
+Source: Lab Med. 2017 Dec 22;49(1):e9-e13. doi: 10.1093/labmed/lmx073.
+
+[2]
+Title: Crystal structure of the Legionella effector Lem22.
+Date:2017 Nov 21
+Authors: ['Kozlov G', 'Wong K', 'Gehring K']
+Language:English
+Source: Proteins. 2017 Nov 21. doi: 10.1002/prot.25427.
+
+[3]
+Title: An investigation of virulence factors of Legionella pneumophila environmental isolates.
+Date:2018 Jan - Mar
+Authors: ['Arslan-Aydogdu EO', 'Kimiran A']
+Language:English
+Source: Braz J Microbiol. 2018 Jan - Mar;49(1):189-199. doi: 10.1016/j.bjm.2017.03.012. Epub 2017 Jul 22.
+
+[4]
+Title: Legionnaires' Disease (Legionella Infection)
+Date:2017 Jun
+Authors: ['Dulebohn SC', 'Sundareshan V']
+Language:English
+Source: ?
+
+[5]
+Title: Human Anti-Lipopolysaccharid (LPS) antibodies against Legionella with high species specificity.
+Date:2017 Jul 19
+Authors: ['Kuhn P', 'Thiem S', 'Steinert M', 'Purvis D', 'Lugmayr V', 'Treutlein U', 'Plobner L', 'Leiser RM', 'Hust M', 'Dubel S']
+Language:English
+Source: Hum Antibodies. 2017 Jul 19;26(1):29-38. doi: 10.3233/HAB-170318.
+
+[6]
+Title: Microbiology and Epidemiology of Legionnaire's Disease.
+Date:2017 Mar
+Authors: ['Burillo A', 'Pedro-Botet ML', 'Bouza E']
+Language:English
+Source: Infect Dis Clin North Am. 2017 Mar;31(1):7-27. doi: 10.1016/j.idc.2016.10.002.
+
+[7]
+Title: Legionnaire's Disease Since Philadelphia: Lessons Learned and Continued Progress.
+Date:2017 Mar
+Authors: ['Cunha CB', 'Cunha BA']
+Language:English
+Source: Infect Dis Clin North Am. 2017 Mar;31(1):1-5. doi: 10.1016/j.idc.2016.10.001. Epub 2016 Dec 12.
+
+[8]
+Title: Legionella clemsonensis sp. nov.: a green fluorescing Legionella strain from a patient with pneumonia.
+Date:2016 Oct
+Authors: ['Palmer A', 'Painter J', 'Hassler H', 'Richards VP', 'Bruce T', 'Morrison S', 'Brown E', 'Kozak-Muiznieks NA', 'Lucas C', 'McNealy TL']
+Language:English
+Source: Microbiol Immunol. 2016 Oct;60(10):694-701. doi: 10.1111/1348-0421.12439.
+
+[9]
+Title: Genomic Analysis Reveals Novel Diversity among the 1976 Philadelphia Legionnaires' Disease Outbreak Isolates and Additional ST36 Strains.
+Date:2016
+Authors: ['Mercante JW', 'Morrison SS', 'Desai HP', 'Raphael BH', 'Winchell JM']
+Language:English
+Source: PLoS One. 2016 Sep 29;11(9):e0164074. doi: 10.1371/journal.pone.0164074. eCollection 2016.
+
+[10]
+Title: Complete Genome Sequences of the Historical Legionella pneumophila Strains OLDA and Pontiac.
+Date:2016 Aug 25
+Authors: ['Mercante JW', 'Morrison SS', 'Raphael BH', 'Winchell JM']
+Language:English
+Source: Genome Announc. 2016 Aug 25;4(4). pii: 4/4/e00866-16. doi: 10.1128/genomeA.00866-16.
+
+[11]
+Title: Draft Genome Sequences of Legionella pneumophila JR32 and Lp01 Laboratory Strains Domesticated in Japan.
+Date:2016 Aug 4
+Authors: ['Maita C', 'Matushita M', 'Okubo T', 'Matsuo J', 'Miyake M', 'Nagai H', 'Yamaguchi H']
+Language:English
+Source: Genome Announc. 2016 Aug 4;4(4). pii: 4/4/e00791-16. doi: 10.1128/genomeA.00791-16.
+
+[12]
+Title: Public health implications of Acanthamoeba and multiple potential opportunistic pathogens in roof-harvested rainwater tanks.
+Date:2016 Oct
+Authors: ['Hamilton KA', 'Ahmed W', 'Palmer A', 'Sidhu JP', 'Hodgers L', 'Toze S', 'Haas CN']
+Language:English
+Source: Environ Res. 2016 Oct;150:320-7. doi: 10.1016/j.envres.2016.06.017. Epub 2016 Jun 21.
+
+[13]
+Title: Iron Limitation Triggers Early Egress by the Intracellular Bacterial Pathogen Legionella pneumophila.
+Date:2016 Aug
+Authors: ["O'Connor TJ", 'Zheng H', 'VanRheenen SM', 'Ghosh S', 'Cianciotto NP', 'Isberg RR']
+Language:English
+Source: Infect Immun. 2016 Jul 21;84(8):2185-97. doi: 10.1128/IAI.01306-15. Print 2016 Aug.
+
+[14]
+Title: Structural comparison of O-antigen gene clusters of Legionella pneumophila and its application of a serogroup-specific multiplex PCR assay.
+Date:2015 Dec
+Authors: ['Cao B', 'Tian Z', 'Wang S', 'Zhu Z', 'Sun Y', 'Feng L', 'Wang L']
+Language:English
+Source: Antonie Van Leeuwenhoek. 2015 Dec;108(6):1405-1423. doi: 10.1007/s10482-015-0594-0. Epub 2015 Sep 28.
+
+[15]
+Title: Improved PCR assay for the species-specific identification and quantitation of Legionella pneumophila in water.
+Date:2015 Nov
+Authors: ['Cho MS', 'Ahn TY', 'Joh K', 'Lee ES', 'Park DS']
+Language:English
+Source: Appl Microbiol Biotechnol. 2015 Nov;99(21):9227-36. doi: 10.1007/s00253-015-6759-y. Epub 2015 Jul 4.
+
+[16]
+Title: IL-1R signaling enables bystander cells to overcome bacterial blockade of host protein synthesis.
+Date:2015 Jun 16
+Authors: ['Copenhaver AM', 'Casson CN', 'Nguyen HT', 'Duda MM', 'Shin S']
+Language:English
+Source: Proc Natl Acad Sci U S A. 2015 Jun 16;112(24):7557-62. doi: 10.1073/pnas.1501289112. Epub 2015 Jun 1.
+
+[17]
+Title: Human caspase-4 mediates noncanonical inflammasome activation against gram-negative bacterial pathogens.
+Date:2015 May 26
+Authors: ['Casson CN', 'Yu J', 'Reyes VM', 'Taschuk FO', 'Yadav A', 'Copenhaver AM', 'Nguyen HT', 'Collman RG', 'Shin S']
+Language:English
+Source: Proc Natl Acad Sci U S A. 2015 May 26;112(21):6688-93. doi: 10.1073/pnas.1421699112. Epub 2015 May 11.
+
+[18]
+Title: Imipenem therapy for Legionnaires' disease.
+Date:2015 Jan
+Authors: ['Edelstein PH']
+Language:English
+Source: J Infect Chemother. 2015 Jan;21(1):76. doi: 10.1016/j.jiac.2014.08.034. Epub 2014 Oct 31.
+
+[19]
+Title: The novel Legionella pneumophila type II secretion substrate NttC contributes to infection of amoebae Hartmannella vermiformis and Willaertia magna.
+Date:2014 Dec
+Authors: ['Tyson JY', 'Vargas P', 'Cianciotto NP']
+Language:English
+Source: Microbiology. 2014 Dec;160(Pt 12):2732-44. doi: 10.1099/mic.0.082750-0. Epub 2014 Sep 24.
+
+[20]
+Title: Viable but not culturable forms of Legionella pneumophila generated after heat shock treatment are infectious for macrophage-like and alveolar epithelial cells after resuscitation on Acanthamoeba polyphaga.
+Date:2015 Jan
+Authors: ['Epalle T', 'Girardot F', 'Allegra S', 'Maurice-Blanc C', 'Garraud O', 'Riffard S']
+Language:English
+Source: Microb Ecol. 2015 Jan;69(1):215-24. doi: 10.1007/s00248-014-0470-x. Epub 2014 Jul 30.
+
+[21]
+Title: Molecular typing of Legionella pneumophila serogroup 1 clinical strains isolated in Italy.
+Date:2014 Jul
+Authors: ['Fontana S', 'Scaturro M', 'Rota MC', 'Caporali MG', 'Ricci ML']
+Language:English
+Source: Int J Med Microbiol. 2014 Jul;304(5-6):597-602. doi: 10.1016/j.ijmm.2014.04.004. Epub 2014 Apr 26.
+
+[22]
+Title: Inflammasome-mediated cell death in response to bacterial pathogens that access the host cell cytosol: lessons from legionella pneumophila.
+Date:2013 Dec 27
+Authors: ['Casson CN', 'Shin S']
+Language:English
+Source: Front Cell Infect Microbiol. 2013 Dec 27;3:111. doi: 10.3389/fcimb.2013.00111.
+
+[23]
+Title: Hartmannella vermiformis inhibition of Legionella pneumophila cultivability.
+Date:2013 Oct
+Authors: ['Buse HY', 'Donohue MJ', 'Ashbolt NJ']
+Language:English
+Source: Microb Ecol. 2013 Oct;66(3):715-26. doi: 10.1007/s00248-013-0250-z. Epub 2013 Jun 14.
+
+[24]
+Title: Caspase-11 activation in response to bacterial secretion systems that access the host cytosol.
+Date:2013
+Authors: ['Casson CN', 'Copenhaver AM', 'Zwack EE', 'Nguyen HT', 'Strowig T', 'Javdan B', 'Bradley WP', 'Fung TC', 'Flavell RA', 'Brodsky IE', 'Shin S']
+Language:English
+Source: PLoS Pathog. 2013;9(6):e1003400. doi: 10.1371/journal.ppat.1003400. Epub 2013 Jun 6.
+
+[25]
+Title: Induction of rapid cell death by an environmental isolate of Legionella pneumophila in mouse macrophages.
+Date:2013 Sep
+Authors: ['Tao L', 'Zhu W', 'Hu BJ', 'Qu JM', 'Luo ZQ']
+Language:English
+Source: Infect Immun. 2013 Sep;81(9):3077-88. doi: 10.1128/IAI.00252-13. Epub 2013 Jun 10.
+
+[26]
+Title: Implication of the VirD4 coupling protein of the Lvh type 4 secretion system in virulence phenotypes of Legionella pneumophila.
+Date:2013 Aug
+Authors: ['Bandyopadhyay P', 'Lang EA', 'Rasaputra KS', 'Steinman HM']
+Language:English
+Source: J Bacteriol. 2013 Aug;195(15):3468-75. doi: 10.1128/JB.00430-13. Epub 2013 May 31.
+
+[27]
+Title: Phylogenetic reconstruction of the Legionella pneumophila Philadelphia-1 laboratory strains through comparative genomics.
+Date:2013
+Authors: ['Rao C', 'Benhabib H', 'Ensminger AW']
+Language:English
+Source: PLoS One. 2013 May 22;8(5):e64129. doi: 10.1371/journal.pone.0064129. Print 2013.
+
+[28]
+Title: Protozoa and human macrophages infection by Legionella pneumophila environmental strains belonging to different serogroups.
+Date:2013 Feb
+Authors: ['Messi P', 'Bargellini A', 'Anacarso I', 'Marchesi I', 'de Niederhausern S', 'Bondi M']
+Language:English
+Source: Arch Microbiol. 2013 Feb;195(2):89-96. doi: 10.1007/s00203-012-0851-9. Epub 2012 Nov 8.
+
+[29]
+Title: Virulence phenotypes of Legionella pneumophila associated with noncoding RNA lpr0035.
+Date:2012 Dec
+Authors: ['Jayakumar D', 'Early JV', 'Steinman HM']
+Language:English
+Source: Infect Immun. 2012 Dec;80(12):4143-53. doi: 10.1128/IAI.00598-12. Epub 2012 Sep 10.
+
+[30]
+Title: Characterization of an acetyltransferase that detoxifies aromatic chemicals in Legionella pneumophila.
+Date:2012 Jul 15
+Authors: ['Kubiak X', 'Dervins-Ravault D', 'Pluvinage B', 'Chaffotte AF', 'Gomez-Valero L', 'Dairou J', 'Busi F', 'Dupret JM', 'Buchrieser C', 'Rodrigues-Lima F']
+Language:English
+Source: Biochem J. 2012 Jul 15;445(2):219-28. doi: 10.1042/BJ20120528.
+
+[31]
+Title: The N-acylneuraminate cytidyltransferase gene, neuA, is heterogenous in Legionella pneumophila strains but can be used as a marker for epidemiological typing in the consensus sequence-based typing scheme.
+Date:2011 Dec
+Authors: ['Farhat C', 'Mentasti M', 'Jacobs E', 'Fry NK', 'Luck C']
+Language:English
+Source: J Clin Microbiol. 2011 Dec;49(12):4052-8. doi: 10.1128/JCM.00687-11. Epub 2011 Sep 28.
+
+[32]
+Title: [Elaboration of chemotaxonomical detection method of presence Legionella pneumophila cultures in water samples by GC-MS technique].
+Date:2011
+Authors: ['Czajkowska A', 'Paziak-Domanska B', 'Gajewska M', 'Bartodziejska B']
+Language:Polish
+Source: Rocz Panstw Zakl Hig. 2011;62(1):115-20.
+
+[33]
+Title: Differential growth of Legionella pneumophila strains within a range of amoebae at various temperatures associated with in-premise plumbing.
+Date:2011 Aug
+Authors: ['Buse HY', 'Ashbolt NJ']
+Language:English
+Source: Lett Appl Microbiol. 2011 Aug;53(2):217-24. doi: 10.1111/j.1472-765X.2011.03094.x. Epub 2011 Jun 15.
+
+[34]
+Title: Cluster of Legionnaires disease in a newly built block of flats, Denmark, December 2008 - January 2009.
+Date:2011 Jan 6
+Authors: ['Krojgaard LH', 'Krogfelt KA', 'Albrechtsen HJ', 'Uldum SA']
+Language:English
+Source: Euro Surveill. 2011 Jan 6;16(1).
+
+[35]
+Title: Genomic diversity of Legionella pneumophila serogroup 1 from environmental water sources and clinical specimens using pulsed-field gel electrophoresis (PFGE) from 1985 to 2007, Korea.
+Date:2010 Oct
+Authors: ['Lee HK', 'Kang YH', 'Yu JY']
+Language:English
+Source: J Microbiol. 2010 Oct;48(5):547-53. doi: 10.1007/s12275-010-0031-z. Epub 2010 Nov 3.
+
+[36]
+Title: Legionella pneumophila strain 130b possesses a unique combination of type IV secretion systems and novel Dot/Icm secretion system effector proteins.
+Date:2010 Nov
+Authors: ['Schroeder GN', 'Petty NK', 'Mousnier A', 'Harding CR', 'Vogrin AJ', 'Wee B', 'Fry NK', 'Harrison TG', 'Newton HJ', 'Thomson NR', 'Beatson SA', 'Dougan G', 'Hartland EL', 'Frankel G']
+Language:English
+Source: J Bacteriol. 2010 Nov;192(22):6001-16. doi: 10.1128/JB.00778-10. Epub 2010 Sep 10.
+
+[37]
+Title: 3-Deoxy-D-manno-octulosonic acid (Kdo) hydrolase identified in Francisella tularensis, Helicobacter pylori, and Legionella pneumophila.
+Date:2010 Nov 5
+Authors: ['Chalabaev S', 'Kim TH', 'Ross R', 'Derian A', 'Kasper DL']
+Language:English
+Source: J Biol Chem. 2010 Nov 5;285(45):34330-6. doi: 10.1074/jbc.M110.166314. Epub 2010 Aug 26.
+
+[38]
+Title: Legionella pneumophila pangenome reveals strain-specific virulence factors.
+Date:2010 Mar 17
+Authors: ["D'Auria G", 'Jimenez-Hernandez N', 'Peris-Bondia F', 'Moya A', 'Latorre A']
+Language:English
+Source: BMC Genomics. 2010 Mar 17;11:181. doi: 10.1186/1471-2164-11-181.
+
+[39]
+Title: Variable genetic element typing: a quick method for epidemiological subtyping of Legionella pneumophila.
+Date:2010 Apr
+Authors: ['Pannier K', 'Heuner K', 'Luck C']
+Language:English
+Source: Eur J Clin Microbiol Infect Dis. 2010 Apr;29(4):481-7. doi: 10.1007/s10096-009-0872-8. Epub 2010 Jan 30.
+
+[40]
+Title: [Comparative study of the biological properties of various nutrient media used for the isolation of Legionella pneumophila].
+Date:2009 Oct
+Authors: ['Shelokhovich AI', 'Kharabadzhakhian GD', 'Karbyshev GL', "Terent'ev AN", "Savel'eva IK", "Savel'eva EP", 'Sokirkina OG']
+Language:Russian
+Source: Klin Lab Diagn. 2009 Oct;(10):45-8.
+
+[41]
+Title: Distribution of lag-1 alleles and sequence-based types among Legionella pneumophila serogroup 1 clinical and environmental isolates in the United States.
+Date:2009 Aug
+Authors: ['Kozak NA', 'Benson RF', 'Brown E', 'Alexander NT', 'Taylor TH Jr', 'Shelton BG', 'Fields BS']
+Language:English
+Source: J Clin Microbiol. 2009 Aug;47(8):2525-35. doi: 10.1128/JCM.02410-08. Epub 2009 Jun 24.
+
+[42]
+Title: Autophagy induced by 2-deoxy-D-glucose suppresses intracellular multiplication of Legionella pneumophila in A/J mouse macrophages.
+Date:2009 May
+Authors: ['Matsuda F', 'Fujii J', 'Yoshida S']
+Language:English
+Source: Autophagy. 2009 May;5(4):484-93.
+
+[43]
+Title: Intragenic tandem repeat variation between Legionella pneumophila strains.
+Date:2008 Dec 10
+Authors: ['Coil DA', 'Vandersmissen L', 'Ginevra C', 'Jarraud S', 'Lammertyn E', 'Anne J']
+Language:English
+Source: BMC Microbiol. 2008 Dec 10;8:218. doi: 10.1186/1471-2180-8-218.
+
+[44]
+Title: Free-living freshwater amoebae differ in their susceptibility to the pathogenic bacterium Legionella pneumophila.
+Date:2009 Jan
+Authors: ['Dey R', 'Bodennec J', 'Mameri MO', 'Pernin P']
+Language:English
+Source: FEMS Microbiol Lett. 2009 Jan;290(1):10-7. doi: 10.1111/j.1574-6968.2008.01387.x. Epub 2008 Nov 10.
+
+[45]
+Title: [Temperate Legionella bacteriophage: discovery and characteristics].
+Date:2008 Jul-Aug
+Authors: ["Grigor'ev AA", 'Bondarev VP', 'Borisevich IV', 'Darmov IV', 'Mironin AV', 'Zolotarev AG', "Pogorel'skii IP", 'Ianov DS']
+Language:Russian
+Source: Zh Mikrobiol Epidemiol Immunobiol. 2008 Jul-Aug;(4):86-8.
+
+[46]
+Title: [Molecular genetic typing of Legionella pneumophila serogroup 1 isolated in town Verkhnyaya Pyshma using international standards].
+Date:2008 Mar-Apr
+Authors: ['Voronina OL', 'Lunin VG']
+Language:Russian
+Source: Zh Mikrobiol Epidemiol Immunobiol. 2008 Mar-Apr;(2):20-3.
+
+[47]
+Title: [Biofilm formation by Legionella spp. in experiment].
+Date:2008 Jan-Feb
+Authors: ['Karpova TI', 'Dronina IuE', 'Alekseeva NV', 'Romanova IuM', 'Tartakovskii IS']
+Language:Russian
+Source: Zh Mikrobiol Epidemiol Immunobiol. 2008 Jan-Feb;(1):3-7.
+
+[48]
+Title: Lgt: a family of cytotoxic glucosyltransferases produced by Legionella pneumophila.
+Date:2008 Apr
+Authors: ['Belyi Y', 'Tabakova I', 'Stahl M', 'Aktories K']
+Language:English
+Source: J Bacteriol. 2008 Apr;190(8):3026-35. doi: 10.1128/JB.01798-07. Epub 2008 Feb 15.
+
+[49]
+Title: Specific detection of PCR product from Legionella pneumophila strain Philadelphia1 using zinc finger protein Sp2.
+Date:2007
+Authors: ['Ikebukuro K', 'Kumagai T', 'Motoki H', 'Osawa Y', 'Matuo T', 'Horiuchi M', 'Sode K']
+Language:English
+Source: Nucleic Acids Symp Ser (Oxf). 2007;(51):285-6. doi: 10.1093/nass/nrm143.
+
+[50]
+Title: Differential 2-D protein gel electrophoresis analysis of Legionella pneumophila wild type and Tat secretion mutants.
+Date:2008 Jul
+Authors: ['De Buck E', 'Hoper D', 'Lammertyn E', 'Hecker M', 'Anne J']
+Language:English
+Source: Int J Med Microbiol. 2008 Jul;298(5-6):449-61. doi: 10.1016/j.ijmm.2007.06.003. Epub 2007 Aug 27.
+
+[51]
+Title: The twin-arginine translocation pathway is necessary for correct membrane insertion of the Rieske Fe/S protein in Legionella pneumophila.
+Date:2007 Jan 23
+Authors: ['De Buck E', 'Vranckx L', 'Meyen E', 'Maes L', 'Vandersmissen L', 'Anne J', 'Lammertyn E']
+Language:English
+Source: FEBS Lett. 2007 Jan 23;581(2):259-64. doi: 10.1016/j.febslet.2006.12.022. Epub 2006 Dec 18.
+
+[52]
+Title: Legionella pneumophila-induced NF-kappaB- and MAPK-dependent cytokine release by lung epithelial cells.
+Date:2007 Jan
+Authors: ['Schmeck B', "N'Guessan PD", 'Ollomang M', 'Lorenz J', 'Zahlten J', 'Opitz B', 'Flieger A', 'Suttorp N', 'Hippenstiel S']
+Language:English
+Source: Eur Respir J. 2007 Jan;29(1):25-33. doi: 10.1183/09031936.00141005. Epub 2006 Sep 13.
+
+[53]
+Title: Distribution of 19 major virulence genes in Legionella pneumophila serogroup 1 isolates from patients and water in Queensland, Australia.
+Date:2006 Aug
+Authors: ['Huang B', 'Yuan Z', 'Heron BA', 'Gray BR', 'Eglezos S', 'Bates JR', 'Savill J']
+Language:English
+Source: J Med Microbiol. 2006 Aug;55(Pt 8):993-7. doi: 10.1099/jmm.0.46310-0.
+
+[54]
+Title: Phylogenomic and biochemical characterization of three Legionella pneumophila polypeptide deformylases.
+Date:2006 Jul
+Authors: ['Huang J', 'Van Aller GS', 'Taylor AN', 'Kerrigan JJ', 'Liu WS', 'Trulli JM', 'Lai Z', 'Holmes D', 'Aubart KM', 'Brown JR', 'Zalacain M']
+Language:English
+Source: J Bacteriol. 2006 Jul;188(14):5249-57. doi: 10.1128/JB.00866-05.
+
+[55]
+Title: Clinical and environmental distribution of Legionella pneumophila in a university hospital in Italy: efficacy of ultraviolet disinfection.
+Date:2006 Apr
+Authors: ['Triassi M', 'Di Popolo A', "Ribera D'Alcala G", 'Albanese Z', 'Cuccurullo S', 'Montegrosso S', 'Crispino M', 'Borella P', 'Zarrilli R']
+Language:English
+Source: J Hosp Infect. 2006 Apr;62(4):494-501. doi: 10.1016/j.jhin.2005.09.029. Epub 2006 Feb 7.
+
+[56]
+Title: Evidence for acquisition of Legionella type IV secretion substrates via interdomain horizontal gene transfer.
+Date:2005 Nov
+Authors: ['de Felipe KS', 'Pampou S', 'Jovanovic OS', 'Pericone CD', 'Ye SF', 'Kalachikov S', 'Shuman HA']
+Language:English
+Source: J Bacteriol. 2005 Nov;187(22):7716-26. doi: 10.1128/JB.187.22.7716-7726.2005.
+
+[57]
+Title: Legionella pneumophila Philadelphia-1 tatB and tatC affect intracellular replication and biofilm formation.
+Date:2005 Jun 17
+Authors: ['De Buck E', 'Maes L', 'Meyen E', 'Van Mellaert L', 'Geukens N', 'Anne J', 'Lammertyn E']
+Language:English
+Source: Biochem Biophys Res Commun. 2005 Jun 17;331(4):1413-20. doi: 10.1016/j.bbrc.2005.04.060.
+
+[58]
+Title: Evaluation of different primers for DNA fingerprinting of Legionella pneumophila serogroup 1 strains by polymerase chain reaction.
+Date:2004 Oct
+Authors: ['Wiese J', 'Helbig JH', 'Luck C', 'Meyer HG', 'Jansen B', 'Dunkelberg H']
+Language:English
+Source: Int J Med Microbiol. 2004 Oct;294(6):401-6. doi: 10.1016/j.ijmm.2004.07.006.
+
+[59]
+Title: Expression of magA in Legionella pneumophila Philadelphia-1 is developmentally regulated and a marker of formation of mature intracellular forms.
+Date:2004 May
+Authors: ['Hiltz MF', 'Sisson GR', 'Brassinga AK', 'Garduno E', 'Garduno RA', 'Hoffman PS']
+Language:English
+Source: J Bacteriol. 2004 May;186(10):3038-45.
+
+[60]
+Title: Virulence conversion of Legionella pneumophila by conjugal transfer of chromosomal DNA.
+Date:2003 Nov
+Authors: ['Miyamoto H', 'Yoshida S', 'Taniguchi H', 'Shuman HA']
+Language:English
+Source: J Bacteriol. 2003 Nov;185(22):6712-8.
+
+[61]
+Title: A 65-kilobase pathogenicity island is unique to Philadelphia-1 strains of Legionella pneumophila.
+Date:2003 Aug
+Authors: ['Brassinga AK', 'Hiltz MF', 'Sisson GR', 'Morash MG', 'Hill N', 'Garduno E', 'Edelstein PH', 'Garduno RA', 'Hoffman PS']
+Language:English
+Source: J Bacteriol. 2003 Aug;185(15):4630-7.
+
+[62]
+Title: Characterization of a tandem repeat polymorphism in Legionella pneumophila and its use for genotyping.
+Date:2003 May
+Authors: ['Pourcel C', 'Vidgop Y', 'Ramisse F', 'Vergnaud G', 'Tram C']
+Language:English
+Source: J Clin Microbiol. 2003 May;41(5):1819-26.
+
+[63]
+Title: Activities of tigecycline (GAR-936) against Legionella pneumophila in vitro and in guinea pigs with L. pneumophila pneumonia.
+Date:2003 Feb
+Authors: ['Edelstein PH', 'Weiss WJ', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 2003 Feb;47(2):533-40.
+
+[64]
+Title: Pan-European study on culture-proven Legionnaires' disease: distribution of Legionella pneumophila serogroups and monoclonal subgroups.
+Date:2002 Oct
+Authors: ['Helbig JH', 'Bernander S', 'Castellani Pastoris M', 'Etienne J', 'Gaia V', 'Lauwers S', 'Lindsay D', 'Luck PC', 'Marques T', 'Mentula S', 'Peeters MF', 'Pelaz C', 'Struelens M', 'Uldum SA', 'Wewalka G', 'Harrison TG']
+Language:English
+Source: Eur J Clin Microbiol Infect Dis. 2002 Oct;21(10):710-6. doi: 10.1007/s10096-002-0820-3. Epub 2002 Oct 18.
+
+[65]
+Title: An outbreak of Legionnaires' disease in an inner city district: importance of the first 24 hours in the investigation.
+Date:2002 Sep
+Authors: ['Jansa JM', 'Cayla JA', 'Ferrer D', 'Gracia J', 'Pelaz C', 'Salvador M', 'Benavides A', 'Pellicer T', 'Rodriguez P', 'Garces JM', 'Segura A', 'Guix J', 'Plasencia A']
+Language:English
+Source: Int J Tuberc Lung Dis. 2002 Sep;6(9):831-8.
+
+[66]
+Title: Sequence and genome context analysis of a new molecular class D beta-lactamase gene from Legionella pneumophila.
+Date:2002 Sep
+Authors: ['Avison MB', 'Simm AM']
+Language:English
+Source: J Antimicrob Chemother. 2002 Sep;50(3):331-8.
+
+[67]
+Title: BMS-284756 (T-3811ME) a new fluoroquinolone: in vitro activity against Legionella, efficacy in a guinea pig model of L. pneumophila pneumonia and pharmacokinetics in guinea pigs.
+Date:2001 Nov
+Authors: ['Edelstein PH', 'Shinzato T', 'Edelstein MA']
+Language:English
+Source: J Antimicrob Chemother. 2001 Nov;48(5):667-75.
+
+[68]
+Title: In vitro activity of ABT-773 against Legionella pneumophila, its pharmacokinetics in guinea pigs, and its use to treat guinea pigs with L. pneumophila pneumonia.
+Date:2001 Oct
+Authors: ['Edelstein PH', 'Higa F', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 2001 Oct;45(10):2685-90. doi: 10.1128/AAC.45.10.2685-2690.2001.
+
+[69]
+Title: Morphological variety of intracellular microcolonies of Legionella species in Vero cells.
+Date:2001
+Authors: ['Ogawa M', 'Takade A', 'Miyamoto H', 'Taniguchi H', 'Yoshida S']
+Language:English
+Source: Microbiol Immunol. 2001;45(7):557-62.
+
+[70]
+Title: Fate of Legionella pneumophila in macrophages of C57BL/6 chronic granulomatous disease mice.
+Date:2001
+Authors: ['Saito M', 'Kajiwara H', 'Miyamoto H', 'Yoshida S']
+Language:English
+Source: Microbiol Immunol. 2001;45(7):539-41.
+
+[71]
+Title: Crystal structure of Mip, a prolylisomerase from Legionella pneumophila.
+Date:2001 Sep
+Authors: ['Riboldi-Tunnicliffe A', 'Konig B', 'Jessen S', 'Weiss MS', 'Rahfeld J', 'Hacker J', 'Fischer G', 'Hilgenfeld R']
+Language:English
+Source: Nat Struct Biol. 2001 Sep;8(9):779-83. doi: 10.1038/nsb0901-779.
+
+[72]
+Title: In vitro activity of gemifloxacin (SB-265805, LB20304a) against Legionella pneumophila and its pharmacokinetics in guinea pigs with L. pneumophila pneumonia.
+Date:2001 Aug
+Authors: ['Edelstein PH', 'Shinzato T', 'Doyle E', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 2001 Aug;45(8):2204-9. doi: 10.1128/AAC.45.8.2204-2209.2001.
+
+[73]
+Title: Complex O-acetylation in Legionella pneumophila serogroup 1 lipopolysaccharide. Evidence for two genes involved in 8-O-acetylation of legionaminic acid.
+Date:2001 Jun 26
+Authors: ['Kooistra O', 'Luneberg E', 'Lindner B', 'Knirel YA', 'Frosch M', 'Zahringer U']
+Language:English
+Source: Biochemistry. 2001 Jun 26;40(25):7630-40.
+
+[74]
+Title: Unexpected similarity of pulsed-field gel electrophoresis patterns of unrelated clinical isolates of Legionella pneumophila, serogroup 1.
+Date:2001 Feb 15
+Authors: ['Drenning SD', 'Stout JE', 'Joly JR', 'Yu VL']
+Language:English
+Source: J Infect Dis. 2001 Feb 15;183(4):628-32. doi: 10.1086/318525. Epub 2001 Jan 11.
+
+[75]
+Title: Legionella species of different human prevalence induce different rates of apoptosis in human monocytic cells.
+Date:2000 Jun
+Authors: ['Walz JM', 'Gerhardt H', 'Faigle M', 'Wolburg H', 'Neumeister B']
+Language:English
+Source: APMIS. 2000 Jun;108(6):398-408.
+
+[76]
+Title: In vitro activity of quinupristin/dalfopristin (Synercid, RP 59500) against Legionella spp.
+Date:2000 Jan
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Diagn Microbiol Infect Dis. 2000 Jan;36(1):49-52.
+
+[77]
+Title: A cluster of cases of legionnaires' disease associated with exposure to a spa pool on display.
+Date:2000 Mar
+Authors: ['McEvoy M', 'Batchelor N', 'Hamilton G', 'MacDonald A', 'Faiers M', 'Sills A', 'Lee J', 'Harrison T']
+Language:English
+Source: Commun Dis Public Health. 2000 Mar;3(1):43-5.
+
+[78]
+Title: Discovery of a nonclassical siderophore, legiobactin, produced by strains of Legionella pneumophila.
+Date:2000 Feb
+Authors: ['Liles MR', 'Scheel TA', 'Cianciotto NP']
+Language:English
+Source: J Bacteriol. 2000 Feb;182(3):749-57.
+
+[79]
+Title: Grouping of 20 reference strains of Legionella species by the growth ability within mouse and guinea pig macrophages.
+Date:1999 Oct
+Authors: ['Izu K', 'Yoshida S', 'Miyamoto H', 'Chang B', 'Ogawa M', 'Yamamoto H', 'Goto Y', 'Taniguchi H']
+Language:English
+Source: FEMS Immunol Med Microbiol. 1999 Oct;26(1):61-8.
+
+[80]
+Title: Discovery of virulence genes of Legionella pneumophila by using signature tagged mutagenesis in a guinea pig pneumonia model.
+Date:1999 Jul 6
+Authors: ['Edelstein PH', 'Edelstein MA', 'Higa F', 'Falkow S']
+Language:English
+Source: Proc Natl Acad Sci U S A. 1999 Jul 6;96(14):8190-5.
+
+[81]
+Title: [Legionnaires' disease in travellers].
+Date:1998
+Authors: ['Jarraud S', 'Reyrolle M', 'Riffard S', 'Lo Presti F', 'Etienne J']
+Language:French
+Source: Bull Soc Pathol Exot. 1998;91(5 Pt 1-2):486-9.
+
+[82]
+Title: In vitro activity of SCH 27899 (Ziracin) against Legionella species.
+Date:1999 Jan
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Diagn Microbiol Infect Dis. 1999 Jan;33(1):59-62.
+
+[83]
+Title: In vitro activity of the ketolide HMR 3647 (RU 6647) for Legionella spp., its pharmacokinetics in guinea pigs, and use of the drug to treat guinea pigs with Legionella pneumophila pneumonia.
+Date:1999 Jan
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 1999 Jan;43(1):90-5.
+
+[84]
+Title: Entry and intracellular growth of Legionella dumoffii in alveolar epithelial cells.
+Date:1998 Jun
+Authors: ['Maruta K', 'Miyamoto H', 'Hamada T', 'Ogawa M', 'Taniguchi H', 'Yoshida S']
+Language:English
+Source: Am J Respir Crit Care Med. 1998 Jun;157(6 Pt 1):1967-74. doi: 10.1164/ajrccm.157.6.9710108.
+
+[85]
+Title: Entry and intracellular localization of Legionella dumoffii in Vero cells.
+Date:1998 Feb
+Authors: ['Maruta K', 'Ogawa M', 'Miyamoto H', 'Izu K', 'Yoshida SI']
+Language:English
+Source: Microb Pathog. 1998 Feb;24(2):65-73. doi: 10.1006/mpat.1997.0171.
+
+[86]
+Title: [Legionella infections. Pontiac fever and Legionella pneumonia (Legionnaires' disease)].
+Date:1998 Jan
+Authors: ['Stock I', 'Wiedemann B']
+Language:German
+Source: Med Monatsschr Pharm. 1998 Jan;21(1):2-8.
+
+[87]
+Title: Identification of an alpha-D-Manp-(1-->8)-Kdo disaccharide in the inner core region and the structure of the complete core region of the Legionella pneumophila serogroup 1 lipopolysaccharide.
+Date:1997 Oct 28
+Authors: ['Moll H', 'Knirel YA', 'Helbig JH', 'Zahringer U']
+Language:English
+Source: Carbohydr Res. 1997 Oct 28;304(1):91-5.
+
+[88]
+Title: Chemical characterization of a new 5,7-diamino-3,5,7,9-tetradeoxynonulosonic acid released by mild acid hydrolysis of the Legionella pneumophila serogroup 1 lipopolysaccharide.
+Date:1997 Oct 28
+Authors: ['Knirel YA', 'Moll H', 'Helbig JH', 'Zahringer U']
+Language:English
+Source: Carbohydr Res. 1997 Oct 28;304(1):77-9.
+
+[89]
+Title: Multiplication of different Legionella species in Mono Mac 6 cells and in Acanthamoeba castellanii.
+Date:1997 Apr
+Authors: ['Neumeister B', 'Schoniger S', 'Faigle M', 'Eichner M', 'Dietz K']
+Language:English
+Source: Appl Environ Microbiol. 1997 Apr;63(4):1219-24.
+
+[90]
+Title: [Isolation and biological characterization of Legionella pneumophila mutants resistant to aminoglycoside antibotics and their protective action].
+Date:1997
+Authors: ['Marakusha BI', 'Temezhnikova ND', 'Tartakovskil IS']
+Language:Russian
+Source: Antibiot Khimioter. 1997;42(10):33-7.
+
+[91]
+Title: [Subserogrouping of 49 Legionella pneumophila serogroup 1 strains with monoclonal antibodies by slide latex agglutination method and its usefulness for epidemiologic study].
+Date:1996 Jul
+Authors: ['Gondaira F', 'Sugiyama J']
+Language:Japanese
+Source: Kansenshogaku Zasshi. 1996 Jul;70(7):673-80.
+
+[92]
+Title: Increased plasma adenosine deaminase activity in the early phase of Legionella pneumophila infection in guinea pigs.
+Date:1996 May
+Authors: ['Nikaido Y', 'Nagata N', 'Kido M', 'Yoshida S']
+Language:English
+Source: FEMS Immunol Med Microbiol. 1996 May;14(1):39-43.
+
+[93]
+Title: Activity of trovafloxacin (CP-99,219) against Legionella isolates: in vitro activity, intracellular accumulation and killing in macrophages, and pharmacokinetics and treatment of guinea pigs with L. pneumophila pneumonia.
+Date:1996 Feb
+Authors: ['Edelstein PH', 'Edelstein MA', 'Ren J', 'Polzer R', 'Gladue RP']
+Language:English
+Source: Antimicrob Agents Chemother. 1996 Feb;40(2):314-19.
+
+[94]
+Title: Natamycin as a selective antifungal agent in media for growth of Legionella spp.
+Date:1996 Jan
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: J Clin Microbiol. 1996 Jan;34(1):185-7.
+
+[95]
+Title: In-vitro activity of levofloxacin against clinical isolates of Legionella spp, its pharmacokinetics in guinea pigs, and use in experimental Legionella pneumophila pneumonia.
+Date:1996 Jan
+Authors: ['Edelstein PH', 'Edelstein MA', 'Lehr KH', 'Ren J']
+Language:English
+Source: J Antimicrob Chemother. 1996 Jan;37(1):117-26.
+
+[96]
+Title: Antibody-independent binding of complement component C1q by Legionella pneumophila.
+Date:1995 Dec
+Authors: ['Mintz CS', 'Arnold PI', 'Johnson W', 'Schultz DR']
+Language:English
+Source: Infect Immun. 1995 Dec;63(12):4939-43.
+
+[97]
+Title: Enzyme immunoassay for detection of antibodies against isolated flagella of Legionella pneumophila.
+Date:1995 Sep
+Authors: ['Neumeister B', 'Susa M', 'Nowak B', 'Straube E', 'Ruckdeschel G', 'Hacker J', 'Marre R']
+Language:English
+Source: Eur J Clin Microbiol Infect Dis. 1995 Sep;14(9):764-7.
+
+[98]
+Title: Molecular characterization of a virulence-associated epitope on the lipopolysaccharide of Legionella pneumophila serogroup 1.
+Date:1995 Aug
+Authors: ['Helbig JH', 'Luck PC', 'Knirel YA', 'Witzleb W', 'Zahringer U']
+Language:English
+Source: Epidemiol Infect. 1995 Aug;115(1):71-8.
+
+[99]
+Title: Monoclonal antibodies to Legionella Mip proteins recognize genus- and species-specific epitopes.
+Date:1995 Mar
+Authors: ['Helbig JH', 'Ludwig B', 'Luck PC', 'Groh A', 'Witzleb W', 'Hacker J']
+Language:English
+Source: Clin Diagn Lab Immunol. 1995 Mar;2(2):160-5.
+
+[100]
+Title: The lipopolysaccharide of Legionella pneumophila serogroup 1 (strain Philadelphia 1): chemical structure and biological significance.
+Date:1995
+Authors: ['Zahringer U', 'Knirel YA', 'Lindner B', 'Helbig JH', 'Sonesson A', 'Marre R', 'Rietschel ET']
+Language:English
+Source: Prog Clin Biol Res. 1995;392:113-39.
+
+[101]
+Title: Intracellular multiplication of Legionella pneumophila in Tetrahymena thermophila.
+Date:1994 Dec 1
+Authors: ['Kikuhara H', 'Ogawa M', 'Miyamoto H', 'Nikaido Y', 'Yoshida S']
+Language:English
+Source: J UOEH. 1994 Dec 1;16(4):263-75.
+
+[102]
+Title: The structure of the O-specific chain of Legionella pneumophila serogroup 1 lipopolysaccharide.
+Date:1994 Apr 1
+Authors: ['Knirel YA', 'Rietschel ET', 'Marre R', 'Zahringer U']
+Language:English
+Source: Eur J Biochem. 1994 Apr 1;221(1):239-45.
+
+[103]
+Title: Azithromycin pharmacokinetics and intracellular concentrations in Legionella pneumophila-infected and uninfected guinea pigs and their alveolar macrophages.
+Date:1994 Feb
+Authors: ['Stamler DA', 'Edelstein MA', 'Edelstein PH']
+Language:English
+Source: Antimicrob Agents Chemother. 1994 Feb;38(2):217-22.
+
+[104]
+Title: In vitro extracellular and intracellular activities of clavulanic acid and those of piperacillin and ceftriaxone alone and in combination with tazobactam against clinical isolates of Legionella species.
+Date:1994 Feb
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 1994 Feb;38(2):200-4.
+
+[105]
+Title: Intracellular growth of Legionella pneumophila serogroup 1 monoclonal antibody type 2 positive and negative bacteria.
+Date:1993 Dec
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Epidemiol Infect. 1993 Dec;111(3):499-502.
+
+[106]
+Title: Protein profiles of Legionella pneumophila Philadelphia-1 grown in macrophages and characterization of a gene encoding a novel 24 kDa Legionella protein.
+Date:1993 Dec
+Authors: ['Miyamoto H', 'Yoshida S', 'Taniguchi H', 'Qin MH', 'Fujio H', 'Mizuguchi Y']
+Language:English
+Source: Microb Pathog. 1993 Dec;15(6):469-84.
+
+[107]
+Title: [Study of Legionella pneumophila detection by two step polymerase chain reaction].
+Date:1993 Nov
+Authors: ['Koide M', 'Saito A', 'Higa F', 'Yamashiro Y', 'Ishimine T', 'Futenma M', 'Inadome J', 'Kawakami K', 'Kusano N']
+Language:Japanese
+Source: Kansenshogaku Zasshi. 1993 Nov;67(11):1062-7.
+
+[108]
+Title: [Characterization of clinical and environmental isolates of Legionella associated with outbreaks and study of the infection sources].
+Date:1993 Aug-Sep
+Authors: ['Pelaz C', 'Martin-Bourgon C']
+Language:Spanish
+Source: Enferm Infecc Microbiol Clin. 1993 Aug-Sep;11(7):359-65.
+
+[109]
+Title: Nosocomial Legionnaires' disease: aspiration as a primary mode of disease acquisition.
+Date:1993 Jul
+Authors: ['Blatt SP', 'Parkinson MD', 'Pace E', 'Hoffman P', 'Dolan D', 'Lauderdale P', 'Zajac RA', 'Melcher GP']
+Language:English
+Source: Am J Med. 1993 Jul;95(1):16-22.
+
+[110]
+Title: In vitro activity of RP 74501-RP 74502, a novel streptogramin antimicrobial mixture, against clinical isolates of Legionella species.
+Date:1993 Apr
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 1993 Apr;37(4):908-10.
+
+[111]
+Title: Adherence of Legionella pneumophila to guinea pig peritoneal macrophages, J774 mouse macrophages, and undifferentiated U937 human monocytes: role of Fc and complement receptors.
+Date:1992 Dec
+Authors: ['Husmann LK', 'Johnson W']
+Language:English
+Source: Infect Immun. 1992 Dec;60(12):5212-8.
+
+[112]
+Title: In vitro activity of Ro 23-9424 against clinical isolates of Legionella species.
+Date:1992 Nov
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 1992 Nov;36(11):2559-61.
+
+[113]
+Title: In vitro activities of fleroxacin against clinical isolates of Legionella spp., its pharmacokinetics in guinea pigs, and use to treat guinea pigs with L. pneumophila pneumonia.
+Date:1992 Nov
+Authors: ['Edelstein PH', 'Edelstein MA', 'Holzknecht B']
+Language:English
+Source: Antimicrob Agents Chemother. 1992 Nov;36(11):2387-91.
+
+[114]
+Title: Subtyping of Legionella pneumophila serogroup 1 strains isolated in Germany using monoclonal antibodies.
+Date:1992 Jul
+Authors: ['Luck PC', 'Helbig JH', 'Ehret W', 'Marre R', 'Witzleb W']
+Language:English
+Source: Zentralbl Bakteriol. 1992 Jul;277(2):179-87.
+
+[115]
+Title: Isolation and characterization of a lipopolysaccharide mutant of Legionella pneumophila.
+Date:1992 Jun 15
+Authors: ['Mintz CS', 'Zou CH']
+Language:English
+Source: FEMS Microbiol Lett. 1992 Jun 15;72(3):249-53.
+
+[116]
+Title: Legionellae isolated from clinical and environmental samples in Spain (1983-90): monoclonal typing of Legionella pneumophila serogroup 1 isolates.
+Date:1992 Jun
+Authors: ['Pelaz C', 'Garcia L', 'Martin-bourgon C']
+Language:English
+Source: Epidemiol Infect. 1992 Jun;108(3):397-402.
+
+[117]
+Title: [Mechanism of acquired resistance against Legionella--blastogenic responses of murine spleen lymphoid cells following the stimulation with Legionella antigens].
+Date:1992 Jun
+Authors: ['Higa F', 'Kitsukawa K', 'Tateyama M', 'Gaja M', 'Owan I', 'Kusano N', 'Shigeno Y', 'Saito A']
+Language:Japanese
+Source: Kansenshogaku Zasshi. 1992 Jun;66(6):769-75.
+
+[118]
+Title: [A minor epidemic due to Legionella pneumophila serogroup 1].
+Date:1992 Mar 20
+Authors: ['Luck PC', 'Rasch R', 'Schmidt C', 'Helbig JH', 'Ehret W', 'Stockmann B', 'Witzleb W']
+Language:German
+Source: Dtsch Med Wochenschr. 1992 Mar 20;117(12):460-4. doi: 10.1055/s-2008-1062334.
+
+[119]
+Title: Virulence factors of the family Legionellaceae.
+Date:1992 Mar
+Authors: ['Dowling JN', 'Saha AK', 'Glew RH']
+Language:English
+Source: Microbiol Rev. 1992 Mar;56(1):32-60.
+
+[120]
+Title: Phenotype versus genotype of the 19 kD peptido-glycan associated protein of Legionella (PpIA), among Legionellae and other gram-negative bacteria.
+Date:1991 Nov
+Authors: ['Ott M', 'Bender L', 'Chirinos E', 'Ehret W', 'Hacker J']
+Language:English
+Source: Microb Pathog. 1991 Nov;11(5):357-65.
+
+[121]
+Title: [A case of Legionnaires' disease cured with a combination of erythromycin and steroid therapy].
+Date:1991 Nov
+Authors: ['Yonemaru M', 'Homma S', 'Yamasawa F', 'Kawai A', 'Kobayashi H', 'Ichinose Y', 'Kanazawa M', 'Kawashiro T', 'Yokoyama T']
+Language:Japanese
+Source: Nihon Kyobu Shikkan Gakkai Zasshi. 1991 Nov;29(11):1499-504.
+
+[122]
+Title: Distribution, expression, and long-range mapping of legiolysin gene (lly)-specific DNA sequences in legionellae.
+Date:1991 Sep
+Authors: ['Bender L', 'Ott M', 'Debes A', 'Rdest U', 'Heesemann J', 'Hacker J']
+Language:English
+Source: Infect Immun. 1991 Sep;59(9):3333-6.
+
+[123]
+Title: Temperature-dependent expression of flagella in Legionella.
+Date:1991 Aug
+Authors: ['Ott M', 'Messner P', 'Heesemann J', 'Marre R', 'Hacker J']
+Language:English
+Source: J Gen Microbiol. 1991 Aug;137(8):1955-61. doi: 10.1099/00221287-137-8-1955.
+
+[124]
+Title: Multiplication of Legionella spp. in tap water containing Hartmannella vermiformis.
+Date:1991 Jul
+Authors: ['Wadowsky RM', 'Wilson TM', 'Kapp NJ', 'West AJ', 'Kuchta JM', 'States SJ', 'Dowling JN', 'Yee RB']
+Language:English
+Source: Appl Environ Microbiol. 1991 Jul;57(7):1950-5.
+
+[125]
+Title: Rifampin resistance of Legionella pneumophila is not increased during therapy for experimental Legionnaires disease: study of rifampin resistance using a guinea pig model of Legionnaires disease.
+Date:1991 Jan
+Authors: ['Edelstein PH']
+Language:English
+Source: Antimicrob Agents Chemother. 1991 Jan;35(1):5-9.
+
+[126]
+Title: Comparison of different agars used in the formulation of buffered charcoal yeast extract medium.
+Date:1991 Jan
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: J Clin Microbiol. 1991 Jan;29(1):190-1.
+
+[127]
+Title: Genetic control of natural resistance in mouse macrophages regulating intracellular Legionella pneumophila multiplication in vitro.
+Date:1991 Jan
+Authors: ['Yoshida S', 'Goto Y', 'Mizuguchi Y', 'Nomoto K', 'Skamene E']
+Language:English
+Source: Infect Immun. 1991 Jan;59(1):428-32.
+
+[128]
+Title: ADP-ribosyltransferase activity of Legionella pneumophila is stimulated by the presence of macrophage lysates.
+Date:1991
+Authors: ['Belyi YuF', 'Tartakovskii IS', 'Vertiev YuV', 'Prosorovskii SV']
+Language:English
+Source: Biomed Sci. 1991;2(1):94-6.
+
+[129]
+Title: In vitro activity of sparfloxacin (CI-978; AT-4140) for clinical Legionella isolates, pharmacokinetics in guinea pigs, and use to treat guinea pigs with L. pneumophila pneumonia.
+Date:1990 Nov
+Authors: ['Edelstein PH', 'Edelstein MA', 'Weidenfeld J', 'Dorr MB']
+Language:English
+Source: Antimicrob Agents Chemother. 1990 Nov;34(11):2122-7.
+
+[130]
+Title: An immunoprotective molecule, the major secretory protein of Legionella pneumophila, is not a virulence factor in a guinea pig model of Legionnaires' disease.
+Date:1990 Sep
+Authors: ['Blander SJ', 'Szeto L', 'Shuman HA', 'Horwitz MA']
+Language:English
+Source: J Clin Invest. 1990 Sep;86(3):817-24. doi: 10.1172/JCI114779.
+
+[131]
+Title: Common epitope on urinary antigen derived from different Legionella pneumophila serogroup 1 strains recognized by a monoclonal antibody.
+Date:1990 Sep
+Authors: ['Helbig JH', 'Luck PC', 'Pilz C', 'Witzleb W']
+Language:English
+Source: Zentralbl Bakteriol. 1990 Sep;273(4):478-80.
+
+[132]
+Title: Legionella pneumophila serogroup 1 population in Italy by monoclonal subtyping.
+Date:1990 Aug
+Authors: ['Castellani Pastoris M', 'McIntyre M', 'Goldoni P']
+Language:English
+Source: Epidemiol Infect. 1990 Aug;105(1):169-74.
+
+[133]
+Title: [Specific DNA probe for detecting Legionella pneumophila].
+Date:1990 May
+Authors: ['Nagaev IG', 'Zigangirova NA', 'Gintsburg AL', 'Tartakovskii IS', 'Prozorovskii SV']
+Language:Russian
+Source: Mol Gen Mikrobiol Virusol. 1990 May;(5):8-12.
+
+[134]
+Title: The HL-60 model for the interaction of human macrophages with the Legionnaires' disease bacterium.
+Date:1990 Apr 1
+Authors: ['Marra A', 'Horwitz MA', 'Shuman HA']
+Language:English
+Source: J Immunol. 1990 Apr 1;144(7):2738-44.
+
+[135]
+Title: WIN 57273 is bactericidal for Legionella pneumophila grown in alveolar macrophages.
+Date:1989 Dec
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: Antimicrob Agents Chemother. 1989 Dec;33(12):2132-6.
+
+[136]
+Title: Evaluation of the Merifluor-Legionella immunofluorescent reagent for identifying and detecting 21 Legionella species.
+Date:1989 Nov
+Authors: ['Edelstein PH', 'Edelstein MA']
+Language:English
+Source: J Clin Microbiol. 1989 Nov;27(11):2455-8.
+
+[137]
+Title: Genetic, immunological, and cytotoxic comparisons of Legionella proteolytic activities.
+Date:1989 Sep
+Authors: ['Quinn FD', 'Keen MG', 'Tompkins LS']
+Language:English
+Source: Infect Immun. 1989 Sep;57(9):2719-25.
+
+[138]
+Title: Analysis of a cloned sequence of Legionella pneumophila encoding a 38 kD metalloprotease possessing haemolytic and cytotoxic activities.
+Date:1989 Jun
+Authors: ['Quinn FD', 'Tompkins LS']
+Language:English
+Source: Mol Microbiol. 1989 Jun;3(6):797-805.
+
+[139]
+Title: In vitro activity of lomefloxacin (NY-198 or SC 47111), ciprofloxacin, and erythromycin against 100 clinical Legionella strains.
+Date:1989 May-Jun
+Authors: ['Edelstein PH', 'Gaudet EA', 'Edelstein MA']
+Language:English
+Source: Diagn Microbiol Infect Dis. 1989 May-Jun;12(3 Suppl):93S-95S.
+
+[140]
+Title: [Use of UV rays for the disinfection of water. III. UV sensitivity of Legionella pneumophila of different ages in cold and warm drinking water].
+Date:1989 May
+Authors: ['Martiny H', 'Seidel K', 'Ruden H']
+Language:German
+Source: Zentralbl Hyg Umweltmed. 1989 May;188(1-2):35-46.
+
+[141]
+Title: Epidemic of nosocomial Legionnaires' disease in renal transplant recipients: a case-control and environmental study.
+Date:1989 May 1
+Authors: ['Le Saux NM', 'Sekla L', 'McLeod J', 'Parker S', 'Rush D', 'Jeffery JR', 'Brunham RC']
+Language:English
+Source: CMAJ. 1989 May 1;140(9):1047-53.
+
+[142]
+Title: Isolation of a Legionella pneumophila restriction mutant with increased ability to act as a recipient in heterospecific matings.
+Date:1989 Apr
+Authors: ['Marra A', 'Shuman HA']
+Language:English
+Source: J Bacteriol. 1989 Apr;171(4):2238-40.
+
+[143]
+Title: Engulfment of the Philadelphia strain of Legionella pneumophila within pseudopod coils in human phagocytes. Comparison with other Legionella strains and species.
+Date:1989 Feb
+Authors: ['Rechnitzer C', 'Blom J']
+Language:English
+Source: APMIS. 1989 Feb;97(2):105-14.
+
+[144]
+Title: Lack of antibodies to Legionella pneumophila and Legionella micdadei in hemodialysis patients.
+Date:1989
+Authors: ['Katz SK', 'Hakki A', 'Schwartz AB', 'Katz SM']
+Language:English
+Source: Scand J Urol Nephrol. 1989;23(2):151-2.
+
+[145]
+Title: A self-limited febrile illness produced in guinea pigs associated with oral administration of Legionella pneumophila.
+Date:1988 Dec
+Authors: ['Katz SM', 'Hammel JM', 'Matus JP', 'Poropatich R', 'Katz J']
+Language:English
+Source: Gastroenterology. 1988 Dec;95(6):1575-81.
+
+[146]
+Title: [The action of interferon preparations on strains of Legionella of various serogroups and species].
+Date:1988 Dec
+Authors: ['Tartakovskii IS', 'Marakusha BI', 'Kuznetsov VV', 'Nebozhina LV', 'Prozorovskii SV']
+Language:Russian
+Source: Zh Mikrobiol Epidemiol Immunobiol. 1988 Dec;(12):104-6.
+
+[147]
+Title: Retrospective evaluation of the Du Pont radioimmunoassay kit for detection of Legionella pneumophila serogroup 1 antigenuria in humans.
+Date:1988 Sep
+Authors: ['Aguero-Rosenfeld ME', 'Edelstein PH']
+Language:English
+Source: J Clin Microbiol. 1988 Sep;26(9):1775-8.
+
+[148]
+Title: Legionella pneumophila serogroup Lansing 3 isolated from a patient with fatal pneumonia, and descriptions of L. pneumophila subsp. pneumophila subsp. nov., L. pneumophila subsp. fraseri subsp. nov., and L. pneumophila subsp. pascullei subsp. nov.
+Date:1988 Sep
+Authors: ['Brenner DJ', 'Steigerwalt AG', 'Epple P', 'Bibb WF', 'McKinney RM', 'Starnes RW', 'Colville JM', 'Selander RK', 'Edelstein PH', 'Moss CW']
+Language:English
+Source: J Clin Microbiol. 1988 Sep;26(9):1695-703.
+
+[149]
+Title: Efficacy of spiramycin on experimental airborne legionellosis in guinea pigs.
+Date:1988 Jul
+Authors: ['Nowicki M', 'Paucod JC', 'Bornstein N', 'Isoard P', 'Fleurette J']
+Language:English
+Source: J Antimicrob Chemother. 1988 Jul;22 Suppl B:63-8.
+
+[150]
+Title: An electron microscopy study of Legionella pneumophila after in vitro and in vivo culture.
+Date:1988 Jul
+Authors: ['Surgot M', 'Barioz CM', 'Nowicki M', 'Bornstein N', 'Fleurette J']
+Language:English
+Source: Zentralbl Bakteriol Mikrobiol Hyg A. 1988 Jul;269(1):26-33.
+
+[151]
+Title: Isolation and characterization of auxotrophic mutants of Legionella pneumophila that fail to multiply in human monocytes.
+Date:1988 Jun
+Authors: ['Mintz CS', 'Chen JX', 'Shuman HA']
+Language:English
+Source: Infect Immun. 1988 Jun;56(6):1449-55.
+
+[152]
+Title: Comparison of molecular methods for subtyping patients and epidemiologically linked environmental isolates of Legionella pneumophila.
+Date:1988 Mar
+Authors: ['Stout JE', 'Joly J', 'Para M', 'Plouffe J', 'Ciesielski C', 'Blaser MJ', 'Yu VL']
+Language:English
+Source: J Infect Dis. 1988 Mar;157(3):486-95.
+
+[153]
+Title: Nosocomial Legionnaires' disease: a global perspective.
+Date:1988 Feb
+Authors: ['Edelstein PH']
+Language:English
+Source: J Hosp Infect. 1988 Feb;11 Suppl A:182-8.
+
+[154]
+Title: Prevalence of antibody to Legionella pneumophila in aborigines and non-aborigines in Western Australia.
+Date:1988 Jan 4
+Authors: ['Sampson IA']
+Language:English
+Source: Med J Aust. 1988 Jan 4;148(1):16-9.
+
+[155]
+Title: Purification, partial characterization, and seroreactivity of a genuswide 60-kilodalton Legionella protein antigen.
+Date:1988 Jan
+Authors: ['Pau CP', 'Plikaytis BB', 'Carlone GM', 'Warner IM']
+Language:English
+Source: J Clin Microbiol. 1988 Jan;26(1):67-71.
+
+[156]
+Title: Fate of Legionella pneumophila Philadelphia-1 strain in resident, elicited, activated, and immune peritoneal macrophages of guinea pigs.
+Date:1987 Oct
+Authors: ['Yoshida S', 'Mizuguchi Y', 'Nikaido Y', 'Mitsuyama M', 'Nomoto K']
+Language:English
+Source: Infect Immun. 1987 Oct;55(10):2477-82.
+
+[157]
+Title: In vitro effects of monobactams on Legionella pneumophila.
+Date:1987 Sep 1
+Authors: ['Yoshida S', 'Mizuguchi Y', 'Nikaido Y']
+Language:English
+Source: J UOEH. 1987 Sep 1;9(3):299-303.
+
+[158]
+Title: Legionella infections.
+Date:1987 Sep
+Authors: ['Ching WT', 'Meyer RD']
+Language:English
+Source: Infect Dis Clin North Am. 1987 Sep;1(3):595-614.
+
+[159]
+Title: [Extracellular metalloproteinase from Legionella pneumophila].
+Date:1987 Aug
+Authors: ["Gul'nik SV", 'Lavrenova GI', 'Stepanov VM']
+Language:Russian
+Source: Biokhimiia. 1987 Aug;52(8):1387-96.
+
+[160]
+Title: [Doxycycline treatment of experimental legionellosis in guinea pigs infected by aerosol].
+Date:1987 Jun
+Authors: ['Nowicki M', 'Paucod JC', 'Bornstein N', 'Meugnier H', 'Freney J', 'Isoard P', 'Fleurette J']
+Language:French
+Source: Pathol Biol (Paris). 1987 Jun;35(5 Pt 2):865-9.
+
+[161]
+Title: The effect of drying, heat, and pH on the survival of Legionella pneumophila.
+Date:1987 May-Jun
+Authors: ['Katz SM', 'Hammel JM']
+Language:English
+Source: Ann Clin Lab Sci. 1987 May-Jun;17(3):150-6.
+
+[162]
+Title: Effect of culture medium on morphology and virulence of Legionella pneumophila serogroup 1.
+Date:1987 Apr
+Authors: ['Nowicki M', 'Bornstein N', 'Paucod JC', 'Binder P', 'Fleurette J']
+Language:English
+Source: Zentralbl Bakteriol Mikrobiol Hyg A. 1987 Apr;264(1-2):167-77.
+
+[163]
+Title: Partial characterization of a Legionella pneumophila serogroup 1 immunodominant antigenic determinant recognized by a monoclonal antibody. Legionella specific antigenic determinant.
+Date:1987
+Authors: ['Petitjean F', 'Guillet JG', 'Vray B', 'Strosberg AD', 'Hoebeke J']
+Language:English
+Source: Comp Immunol Microbiol Infect Dis. 1987;10(1):9-23.
+
+[164]
+Title: Discrimination between clinical and environmental strains of Legionella pneumophila by a monoclonal antibody.
+Date:1986 Oct
+Authors: ['Ehret W', 'von Specht BU', 'Ruckdeschel G']
+Language:English
+Source: Isr J Med Sci. 1986 Oct;22(10):715-23.
+
+[165]
+Title: Multiplication of Legionella pneumophila Philadelphia-1 in cultured peritoneal macrophages and its correlation to susceptibility of animals.
+Date:1986 May
+Authors: ['Yoshida S', 'Mizuguchi Y']
+Language:English
+Source: Can J Microbiol. 1986 May;32(5):438-42.
+
+[166]
+Title: [Conditions for Legionella pneumophila cultivation that affect cytotoxin production].
+Date:1986 Apr
+Authors: ['Belyi IuF', 'Tartakovskii IS', 'Neustroeva VV', 'Vertiev IuV', 'Ezepchuk IuV']
+Language:Russian
+Source: Zh Mikrobiol Epidemiol Immunobiol. 1986 Apr;(4):34-7.
+
+[167]
+Title: Susceptibility of LSH hamsters to intraperitoneal inoculation with Legionella pneumophila.
+Date:1986 Jan-Feb
+Authors: ['Katz SM', 'Poropatich R']
+Language:English
+Source: Ann Clin Lab Sci. 1986 Jan-Feb;16(1):62-6.
+
+[168]
+Title: Effects of tetracyclines on experimental Legionella pneumophila infection in guinea-pigs.
+Date:1985 Aug
+Authors: ['Yoshida S', 'Mizuguchi Y', 'Ohta H', 'Ogawa M']
+Language:English
+Source: J Antimicrob Chemother. 1985 Aug;16(2):199-204.
+
+[169]
+Title: A comparison of virulence of two strains of Legionella pneumophila based on experimental aerosol infection of guinea-pigs.
+Date:1985 Aug
+Authors: ['Jepras RI', 'Fitzgeorge RB', 'Baskerville A']
+Language:English
+Source: J Hyg (Lond). 1985 Aug;95(1):29-38.
+
+[170]
+Title: Response of Legionella pneumophila to beta-lactam antibiotics.
+Date:1985 May
+Authors: ['Weisholtz S', 'Tomasz A']
+Language:English
+Source: Antimicrob Agents Chemother. 1985 May;27(5):695-700.
+
+[171]
+Title: Isolation and characterization of the cytoplasmic and outer membranes of the Legionnaires' disease bacterium (Legionella pneumophila).
+Date:1985 Feb 1
+Authors: ['Gabay JE', 'Horwitz MA']
+Language:English
+Source: J Exp Med. 1985 Feb 1;161(2):409-22.
+
+[172]
+Title: Production of monoclonal antibodies against Legionella pneumophila serogroup 1.
+Date:1985
+Authors: ['Miyazaki T', 'Koga H', 'Nakashima M', 'Tomonaga A', 'Kohno S', 'Hirota M', 'Saito A', 'Hara K', 'Watanabe T']
+Language:English
+Source: Microbiol Immunol. 1985;29(3):275-84.
+
+[173]
+Title: Use of monoclonal antibodies in an epidemiological marker system: a retrospective study of lung specimens from the 1976 outbreak of Legionnaires disease in Philadelphia by indirect fluorescent-antibody and enzyme-linked immunosorbent assay methods.
+Date:1985 Jan
+Authors: ['Brown SL', 'Bibb WF', 'McKinney RM']
+Language:English
+Source: J Clin Microbiol. 1985 Jan;21(1):15-9.
+
+[174]
+Title: Serological differences in Legionella pneumophila infections.
+Date:1984 Dec
+Authors: ['Plouffe JF', 'Bollin GE', 'Para MF', 'Kelly KA']
+Language:English
+Source: J Clin Microbiol. 1984 Dec;20(6):1223-4.
+
+[175]
+Title: Antibiotic susceptibility of Legionella pneumophia Philadelphia-1 in cultured guinea-pig peritoneal macrophages.
+Date:1984 Apr
+Authors: ['Yoshida S', 'Mizuguchi Y']
+Language:English
+Source: J Gen Microbiol. 1984 Apr;130(4):901-6. doi: 10.1099/00221287-130-4-901.
+
+[176]
+Title: Production of monoclonal antibodies to Legionella pneumophila serogroups 1 and 6.
+Date:1983 Oct
+Authors: ['Para MF', 'Plouffe JF']
+Language:English
+Source: J Clin Microbiol. 1983 Oct;18(4):895-900.
+
+[177]
+Title: Experimental infections of horses with Legionella pneumophila.
+Date:1983 Apr
+Authors: ['Cho SN', 'Collins MT', 'Reif JS', 'McChesney AE']
+Language:English
+Source: Am J Vet Res. 1983 Apr;44(4):662-8.
+
+[178]
+Title: Intracellular multiplication of Legionnaires' disease bacteria (Legionella pneumophila) in human monocytes is reversibly inhibited by erythromycin and rifampin.
+Date:1983 Jan
+Authors: ['Horwitz MA', 'Silverstein SC']
+Language:English
+Source: J Clin Invest. 1983 Jan;71(1):15-26.
+
+[179]
+Title: Detection ofLegionella antibodies by enzyme-linked immunosorbent assay (ELISA) using whole cell and carbohydrate antigens.
+Date:1982 Dec
+Authors: ['Westfall HN', 'Myers WF', 'Weiss E']
+Language:English
+Source: Microb Ecol. 1982 Dec;8(4):287-98. doi: 10.1007/BF02010669.
+
+[180]
+Title: Formalin-killed versus heat-killed Legionella pneumophila serogroup 1 antigen in the indirect immunofluorescence assay for legionellosis.
+Date:1982 Nov
+Authors: ['Wilkinson HW', 'Brake BJ']
+Language:English
+Source: J Clin Microbiol. 1982 Nov;16(5):979-81.
+
+[181]
+Title: Occurrence and immunogenicity of proteinases from Legionella species.
+Date:1982 Feb
+Authors: ['Berdal BP', 'Fossum K']
+Language:English
+Source: Eur J Clin Microbiol. 1982 Feb;1(1):7-11.
+
+[182]
+Title: [Diseases of the lungs caused by legionella species (author's transl)].
+Date:1982
+Authors: ['Fleurette J', 'Bornstein N']
+Language:German
+Source: Infection. 1982;10 Suppl 2:S74-8.
+
+[183]
+Title: Activated human monocytes inhibit the intracellular multiplication of Legionnaires' disease bacteria.
+Date:1981 Nov 1
+Authors: ['Horwitz MA', 'Silverstein SC']
+Language:English
+Source: J Exp Med. 1981 Nov 1;154(5):1618-35.
+
+[184]
+Title: Immune defenses against Legionella pneumophila in rats.
+Date:1981 May
+Authors: ['Rolstad B', 'Berdal BP']
+Language:English
+Source: Infect Immun. 1981 May;32(2):805-12.
+
+[185]
+Title: Detection of Legionella pneumophila capsular-like envelope antigens by counterimmunoelectrophoresis.
+Date:1981 Apr
+Authors: ['Smith RA', 'DiGiorgio S', 'Darner J', 'Wilhelm A']
+Language:English
+Source: J Clin Microbiol. 1981 Apr;13(4):637-42.
+
+[186]
+Title: Isolation of Legionella pneumophila (serogroup one) from shower-water in Ballarat.
+Date:1981 Mar 21
+Authors: ['Makela TM', 'Harders SJ', 'Cavanagh P', 'Rouch G', 'Ayre R']
+Language:English
+Source: Med J Aust. 1981 Mar 21;1(6):293-4.
+
+[187]
+Title: Seroepidemiology of Legionella pneumophila. A study of adults from Memphis, Tennessee, U. S. A.
+Date:1981 Feb
+Authors: ['Smalley DL', 'Ourth DD']
+Language:English
+Source: Am J Clin Pathol. 1981 Feb;75(2):201-3.
+
+[188]
+Title: Interaction of the legionnaires' disease bacterium (Legionella pneumophila) with human phagocytes. II. Antibody promotes binding of L. pneumophila to monocytes but does not inhibit intracellular multiplication.
+Date:1981 Feb 1
+Authors: ['Horwitz MA', 'Silverstein SC']
+Language:English
+Source: J Exp Med. 1981 Feb 1;153(2):398-406.
+
+[189]
+Title: Interaction of the Legionnaires' disease bacterium (Legionella pneumophila) with human phagocytes. I. L. pneumophila resists killing by polymorphonuclear leukocytes, antibody, and complement.
+Date:1981 Feb 1
+Authors: ['Horwitz MA', 'Silverstein SC']
+Language:English
+Source: J Exp Med. 1981 Feb 1;153(2):386-97.
+
+[190]
+Title: Legionnaires' disease bacterium (Legionella pneumophila) multiples intracellularly in human monocytes.
+Date:1980 Sep
+Authors: ['Horwitz MA', 'Silverstein SC']
+Language:English
+Source: J Clin Invest. 1980 Sep;66(3):441-50. doi: 10.1172/JCI109874.
+
+[191]
+Title: Indirect immunofluorescence antibodies to Legionella pneumophila: frequency in a rural community.
+Date:1980 Sep
+Authors: ['Helms CM', 'Renner ED', 'Viner JP', 'Hierholzer WJ Jr', 'Wintermeyer LA', 'Johnson W']
+Language:English
+Source: J Clin Microbiol. 1980 Sep;12(3):326-8.
+
+[192]
+Title: Selenium-enriched medium for Legionella pneumophila.
+Date:1980 Jul
+Authors: ['Smalley DL', 'Jaquess PA', 'Layne JS']
+Language:English
+Source: J Clin Microbiol. 1980 Jul;12(1):32-4.
+
+[193]
+Title: Legionnaires' disease serology. Effect of antigen preparation on specificity and sensitivity of the indirect fluorescent antibody test.
+Date:1980 Jun
+Authors: ['Lattimer GL', 'Cepil BA']
+Language:English
+Source: J Clin Pathol. 1980 Jun;33(6):585-90.
+
+[194]
+Title: Classification of the Legionnaires' disease bacterium: Legionella pneumophila, genus novum, species nova, of the family Legionellaceae, familia nova.
+Date:1979 Apr
+Authors: ['Brenner DJ', 'Steigerwalt AG', 'McDade JE']
+Language:English
+Source: Ann Intern Med. 1979 Apr;90(4):656-8.
+

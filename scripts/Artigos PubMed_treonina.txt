@@ -1,0 +1,11 @@
+Legionella pneumophila subsp. pneumophila str. Philadelphia 1
+
+Artigos Disponiveis em PubMed a 28/01/2018
+Total de artigos disponiveis:1
+
+[1]
+Title: Legionella pneumophila-induced NF-kappaB- and MAPK-dependent cytokine release by lung epithelial cells.
+Date:2007 Jan
+Authors: ['Schmeck B', "N'Guessan PD", 'Ollomang M', 'Lorenz J', 'Zahlten J', 'Opitz B', 'Flieger A', 'Suttorp N', 'Hippenstiel S']
+Source: Eur Respir J. 2007 Jan;29(1):25-33. doi: 10.1183/09031936.00141005. Epub 2006 Sep 13.
+
